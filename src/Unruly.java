@@ -221,7 +221,7 @@ public class Unruly extends JFrame {
                 JOptionPane.showMessageDialog(pane,
                 "Welcome to Unruly!\nThe objective of this game is to color each tile in a way such that:\n"
 								+ "	1) No three consecutive squares, horizontally or vertically, are the same color\n"
-								+ "	2) Each row and column contains the same number of black and white squares (4 of each).\n"
+								+ "	2) Each row and column contains the same number of black and white squares (" + boardSize/2 + " of each).\n"
 								+ "Click on a box to cycle through the colors (White, Black, Grey).\n"
 								+ "Click on the undo button to undo your previous move (works in succession).\n"
 								+ "(Note: Black and white boxes with a blue border are unchangeable!)\n"
