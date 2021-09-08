@@ -2,7 +2,7 @@
 
 The objective of this game is to color each tile in a way such that:
   1) No three consecutive squares, horizontally or vertically, are the same color
-  2) Each row and column contains the same number of black and white squares (4 of each).
+  2) Each row and column contains the same number of black and white squares.
   
   Click on a box to cycle through the colors (White, Black, Grey).
   Click on the undo button to undo your previous move (works in succession).
